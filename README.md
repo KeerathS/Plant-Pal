@@ -43,8 +43,8 @@ Designed and **3D-modeled a custom enclosure in Fusion 360**, enhancing the sens
 ---
 
 > 🌱 **Plant Pal** makes plant care smarter, easier, and more reliable.
-
-
 <img width="3024" height="4032" alt="IMG_3854-min" src="https://github.com/user-attachments/assets/a74e451d-431b-41ef-9203-d49a3ec010df" />
+![IMG_3856](https://github.com/user-attachments/assets/b1df6768-cb5b-48fc-8d92-c48a97b2236c)
+
 
 ![Soil sensor schematic](https://github.com/user-attachments/assets/6e19cb28-903f-4e9f-b162-b2754d38baa0)
